@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://barcodebattleground.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">460547315623</string>
+  <string name="google_storage_bucket" translatable="false">barcodebattleground.appspot.com</string>
+  <string name="project_id" translatable="false">barcodebattleground</string>
+  <string name="google_api_key" translatable="false">AIzaSyAolTZxFKrt-5zP2WTFHrbG3B6vz851ZTs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAolTZxFKrt-5zP2WTFHrbG3B6vz851ZTs</string>
+  <string name="google_app_id" translatable="false">1:460547315623:android:701e7705c4044b6c</string>
+  <string name="default_web_client_id" translatable="false">460547315623-n27mgjlteqbm9dtu3emr9bhd6rjhg47h.apps.googleusercontent.com</string>
+</resources>

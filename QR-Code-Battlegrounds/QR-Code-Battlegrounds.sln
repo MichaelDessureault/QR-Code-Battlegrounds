@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR-Code-Battlegrounds", "QR-Code-Battlegrounds.csproj", "{B83864A8-A7F7-7E69-A7A3-0A430BEEEB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR-Code-Battlegrounds.Editor", "QR-Code-Battlegrounds.Editor.csproj", "{0A6525CA-3394-37E0-BA44-0E64FC379BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83864A8-A7F7-7E69-A7A3-0A430BEEEB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83864A8-A7F7-7E69-A7A3-0A430BEEEB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83864A8-A7F7-7E69-A7A3-0A430BEEEB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83864A8-A7F7-7E69-A7A3-0A430BEEEB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6525CA-3394-37E0-BA44-0E64FC379BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6525CA-3394-37E0-BA44-0E64FC379BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6525CA-3394-37E0-BA44-0E64FC379BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6525CA-3394-37E0-BA44-0E64FC379BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

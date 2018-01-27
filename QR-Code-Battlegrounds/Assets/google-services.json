@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "460547315623",
+    "firebase_url": "https://barcodebattleground.firebaseio.com",
+    "project_id": "barcodebattleground",
+    "storage_bucket": "barcodebattleground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460547315623:android:701e7705c4044b6c",
+        "android_client_info": {
+          "package_name": "com.MMF.Capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460547315623-n27mgjlteqbm9dtu3emr9bhd6rjhg47h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolTZxFKrt-5zP2WTFHrbG3B6vz851ZTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
